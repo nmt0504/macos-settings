@@ -5,4 +5,4 @@ Roadmap Setup
 4. Chrome, Firefox, Arc
 5. Nodejs - nvm
 6. Code Editor - vs code
-7. Break, flux
+7. Break, flux, timeout

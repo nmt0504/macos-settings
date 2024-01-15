@@ -18,5 +18,6 @@ List extensions
 - infeng.vscode-react-typescript
 - ms-azuretools.vscode-docker
 
+Command install: while read line; do code --install-extension "$line"; done < vscode-extension.txt
 
 Config Prettier
